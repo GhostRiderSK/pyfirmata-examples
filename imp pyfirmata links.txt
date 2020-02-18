@@ -1,0 +1,6 @@
+https://stackoverflow.com/questions/18991972/in-pyfirmata-how-to-set-up-a-handler-for-string-messages
+https://www.programiz.com/python-programming/examples/ascii-character
+https://github.com/firmata
+https://www.instructables.com/id/Going-Beyond-StandardFirmata-Adding-New-Device-Sup/
+https://github.com/nchavez324/es50_final_project/tree/master/pi
+https://python.hotexamples.com/examples/pyfirmata/Arduino/add_cmd_handler/python-arduino-add_cmd_handler-method-examples.html
